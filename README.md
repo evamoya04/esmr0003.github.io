@@ -28,7 +28,7 @@ Medios (donde se tiene presencia relacionada):
 
 Github:
 Twitter:
-Instagram:
+Instagram: evamoya
 Tiktok:
 
 ## 2. Memoria del proyecto
