@@ -1,4 +1,4 @@
-# (Gato Almeja)
+# Gato Almeja
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
@@ -6,9 +6,9 @@ Gato almeja : MI Proyecto(nombre)
 
 Web: (url github.io)
 
-Autor: (Eva Soledad MoYA Rosales)
+Autor: (Eva Soledad Moya Rosales)
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto es un juego donde el usuario interactua con los personajes por medio del ratón y del teclado, cuenta con un juego principal y un minijuego. En el juego principal la intención es saltar las piedra que aparecen, en caso de que el gato entre en contacto con los obstaculos, el juego se detiene. En el minijuego el usuario debe arrastar el gato hasta el ratón. 
 
 Estilo/género: Novela / juego / portfolio / documental... etc.
 
