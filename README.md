@@ -1,3 +1,4 @@
+#0969DA
 # Gato Almeja
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
