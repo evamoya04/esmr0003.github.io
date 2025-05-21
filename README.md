@@ -3,7 +3,7 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## Datos
-Web: (url github.io)
+Web: [(url github.io)](https://evamoya04.github.io/esmr0003.github.io/)
 
 Autor: Eva Soledad Moya Rosales
 
@@ -11,11 +11,11 @@ Resumen : Este proyecto es un juego donde el usuario interactua con los personaj
 
 Estilo/género: juego.
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 800x600px tamaño fijo 
 
 Probado en: Google Chrome, hippani.
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 120MB
 
 Fecha : 21/05/2025
 
@@ -36,9 +36,9 @@ Tiktok: evam04
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque combina distintos tipos de interaciones, usa música, botones, al final es una experiencia interactiva agradable para el usuario. 
 
-Orientado a .. (Público)
+Orientado a todos los publicos.
 
 Etapa 2: Desarrollo / actividades realizadas
 
@@ -47,7 +47,7 @@ Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
 Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+No se diferencia entre escenas, por tanto, a medida que avanza automaticamente y el gato colisiona con los objetos, el programa se bloquea y no deja avanzar. Esto tambien pasa con el minijuego, ya que cuando el ratón se acerca a la esquina superior izquierda no deja pulsar en el botón de la música, porque también salta otra alarma. 
 
 ##  Conclusiones
   Este proyecto de clase se resume en un juego muy basico, sin embargo ha sido beneficioso de cara al futuro por las competencias adquiridas. El tema de programación y la limitación que condiciona el programa Hippani ha sido el mayor problema a la hora de realizar el proyecto, sin embargo, de cara el proyecto final refinaré las condiciones para que las escenas se diferencien y todo vaya sin problema. 
