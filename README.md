@@ -46,6 +46,7 @@ Video
 Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
+
 Etapa 3: Problemas identificados
 No se diferencia entre escenas, por tanto, a medida que avanza automaticamente y el gato colisiona con los objetos, el programa se bloquea y no deja avanzar. Esto tambien pasa con el minijuego, ya que cuando el ratón se acerca a la esquina superior izquierda no deja pulsar en el botón de la música, porque también salta otra alarma. 
 
