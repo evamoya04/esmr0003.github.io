@@ -38,13 +38,13 @@ Storyboard inicial del proyecto, al que se le hicieron algunos cambios según av
 
 ## Metodología
 
-Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+ Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 Este proyecto es interesante porque combina distintos tipos de interaciones, usa música, botones, al final es una experiencia interactiva agradable para el usuario. 
 
 Orientado a todos los publicos.
 
-Etapa 3: Problemas identificados
+Problemas identificados
 No se diferencia entre escenas, por tanto, a medida que avanza automaticamente y el gato colisiona con los objetos, el programa se bloquea y no deja avanzar. Esto tambien pasa con el minijuego, ya que cuando el ratón se acerca a la esquina superior izquierda no deja pulsar en el botón de la música, porque también salta otra alarma. 
 
 ##  Conclusiones
