@@ -27,10 +27,14 @@ Tiktok: evam04
 
 ##  Memoria del proyecto
 ###  Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
+Storyboard inicial del proyecto, al que se le hicieron algunos cambios según avanzaba 
+![WhatsApp Image 2025-05-28 at 11 15 46](https://github.com/user-attachments/assets/8654031f-4774-4017-8e6c-5d49a13d4431)
+
 
 ###  Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
+![WhatsApp Image 2025-05-28 at 11 09 53](https://github.com/user-attachments/assets/a05aba5a-4003-4c42-98f6-12e919741a04)
 
 ## Metodología
 
@@ -40,21 +44,10 @@ Este proyecto es interesante porque combina distintos tipos de interaciones, usa
 
 Orientado a todos los publicos.
 
-Etapa 2: Desarrollo / actividades realizadas
-
-Storyboard inicial del proyecto, al que se le hicieron algunos cambios según avanzaba 
-![WhatsApp Image 2025-05-28 at 11 12 34](https://github.com/user-attachments/assets/2e271037-1feb-4765-a0d6-225eb3eacee8)
-
-Menús y elementos de navegación 
-
-![WhatsApp Image 2025-05-28 at 11 09 53](https://github.com/user-attachments/assets/a05aba5a-4003-4c42-98f6-12e919741a04)
-
 Etapa 3: Problemas identificados
 No se diferencia entre escenas, por tanto, a medida que avanza automaticamente y el gato colisiona con los objetos, el programa se bloquea y no deja avanzar. Esto tambien pasa con el minijuego, ya que cuando el ratón se acerca a la esquina superior izquierda no deja pulsar en el botón de la música, porque también salta otra alarma. 
 
 ##  Conclusiones
   Este proyecto de clase se resume en un juego muy basico, sin embargo ha sido beneficioso de cara al futuro por las competencias adquiridas. El tema de programación y la limitación que condiciona el programa Hippani ha sido el mayor problema a la hora de realizar el proyecto, sin embargo, de cara el proyecto final refinaré las condiciones para que las escenas se diferencien y todo vaya sin problema. 
-
-##  Referencias
 
 Mayo 2025
