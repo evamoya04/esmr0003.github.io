@@ -42,10 +42,9 @@ Orientado a todos los publicos.
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Video
-Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
-etc.
+
+![WhatsApp Image 2025-05-28 at 11 09 53](https://github.com/user-attachments/assets/a05aba5a-4003-4c42-98f6-12e919741a04)
 
 Etapa 3: Problemas identificados
 No se diferencia entre escenas, por tanto, a medida que avanza automaticamente y el gato colisiona con los objetos, el programa se bloquea y no deja avanzar. Esto tambien pasa con el minijuego, ya que cuando el ratón se acerca a la esquina superior izquierda no deja pulsar en el botón de la música, porque también salta otra alarma. 
@@ -54,13 +53,5 @@ No se diferencia entre escenas, por tanto, a medida que avanza automaticamente y
   Este proyecto de clase se resume en un juego muy basico, sin embargo ha sido beneficioso de cara al futuro por las competencias adquiridas. El tema de programación y la limitación que condiciona el programa Hippani ha sido el mayor problema a la hora de realizar el proyecto, sin embargo, de cara el proyecto final refinaré las condiciones para que las escenas se diferencien y todo vaya sin problema. 
 
 ##  Referencias
-**Artículos y blogs **
-
-Recursos y materiales audiovisuales:
-
-**Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
 
 Mayo 2025
