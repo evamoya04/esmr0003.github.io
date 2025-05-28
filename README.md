@@ -42,7 +42,10 @@ Orientado a todos los publicos.
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Menús y elementos de navegación (botones)
+Storyboard inicial del proyecto, al que se le hicieron algunos cambios según avanzaba 
+![WhatsApp Image 2025-05-28 at 11 12 34](https://github.com/user-attachments/assets/2e271037-1feb-4765-a0d6-225eb3eacee8)
+
+Menús y elementos de navegación 
 
 ![WhatsApp Image 2025-05-28 at 11 09 53](https://github.com/user-attachments/assets/a05aba5a-4003-4c42-98f6-12e919741a04)
 
